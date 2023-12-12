@@ -5,10 +5,10 @@ add()
 {
 printf("addition of a and b",sum);
 }
-sub();
-mul()
+sub()
 {
-printf("multiplication of a and b");
+printf("subtraction of a and b");
 }
+mul();
 div();
 }
