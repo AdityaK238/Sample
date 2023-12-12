@@ -7,8 +7,9 @@ printf("addition of a and b",sum);
 }
 sub()
 {
-printf("subtraction of a and b");
+printf("subtraction of a and b",sub);
 }
+
 mul();
 div();
 }
