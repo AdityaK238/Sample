@@ -4,8 +4,11 @@ main()
 add()
 {
 printf("addition of a and b",sum);
-|
+}
 sub();
-mul();
+mul()
+{
+printf("multiplication of a and b");
+}
 div();
 }
